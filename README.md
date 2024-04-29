@@ -9,4 +9,8 @@ Prerequisites:
 To setup the project:
 
 1. Clone the repository,
-2. Run `pnpm install` to install tooling.
+2. Run `npm install` to install tooling.
+
+To run the project:
+
+1. Run `npm run serve`.
